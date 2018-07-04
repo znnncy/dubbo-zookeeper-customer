@@ -14,7 +14,7 @@ import java.util.List;
 @RequestMapping("/userController")
 public class UserController extends BaseController{
 
-    //记录日志
+    //记 录日志
    private static  final Logger logger=Logger.getLogger(UserController.class);
 
     @Autowired
